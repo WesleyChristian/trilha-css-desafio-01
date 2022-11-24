@@ -108,7 +108,7 @@ button {
 }
 
 #transform-world {
-    background-image: url("assets/images/woman-code.png");
+    background-image: url("images/woman-code.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
